@@ -26,3 +26,4 @@ An optimized, real-time edge AI surveillance system built using Python. This pro
 ```bash
 git clone [https://github.com/muhammedafnasok-design/ai-surveillance-system.git](https://github.com/muhammedafnasok-design/ai-surveillance-system.git)
 cd ai-surveillance-system
+
