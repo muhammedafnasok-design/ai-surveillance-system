@@ -27,12 +27,16 @@ An optimized, real-time edge AI surveillance system built using Python. This pro
 git clone [https://github.com/muhammedafnasok-design/ai-surveillance-system.git](https://github.com/muhammedafnasok-design/ai-surveillance-system.git)
 cd ai-surveillance-system
 ```
-## 2. Install Dependencies
+```
+2. Install Dependencies
 pip install -r requirements.txt
 ```
-## 3. Train Faces
+```
+3. Train Faces
 python train_faces.py
 ```
-## 4. Run the Project
+```
+4. Run the Project
 python main.py
 
+```
