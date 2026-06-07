@@ -13,8 +13,9 @@ An optimized, real-time edge AI surveillance system built using Python. This pro
 ---
 
 ## 📁 Repository Structure
-* `app.py`: The main surveillance execution loop script handling video feed streams, object tracking, and identity mapping.
-* `register_face.py`: (Optional) Script used to encode a new user's face and append it into the embeddings database.
+* `main.py`: The main surveillance execution loop script handling video feed streams, object tracking, and identity mapping.
+* `train_face.py`: Script used to encode a new user's face and append it into the embeddings database.
+* `database/` : Directory where the images used to train is kept.
 * `embeddings/`: Directory where the local face feature data matrix (`face_db.npy`) is kept.
 
 ---
